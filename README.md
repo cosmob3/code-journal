@@ -9,3 +9,4 @@ Can't say I haven't had my fair share of anger moments when it feels like everyt
   - The Command line
 
 ## January 13, 2022
+Today we learned about HTML template, which is exciting because I like being able to play around with different themes. See what each has to offer. After this I could help family and friends set up websites for further practice. 
