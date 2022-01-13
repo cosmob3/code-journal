@@ -6,4 +6,6 @@
 - On my free time I am trying to get better acquainted with:
   - HTML
   - CSS
-  - The Command line 
+  - The Command line
+
+## January 13, 2022
