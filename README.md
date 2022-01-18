@@ -16,3 +16,5 @@ Can't say I haven't had my fair share of anger moments when it feels like everyt
 - TODO: Work on some assignments and finish at least one of them.
 
 Goal: Get a better understanding of UX and getting used to User Stories and Users Flows. 
+
+- Think I'll do my User Stories and User Flow here for convenience.
