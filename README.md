@@ -5,6 +5,15 @@
 
 TODO: Work on assignments. 
 
+### DSGN 270 Assignment 1 - Agile UX
+  
+  * Looking for mobile website in progress...
+  * Website found! "https://www.aritzia.com/en/home"
+
+- Summary: Aritzia is a physical & online women's fashion retail store.
+
+
+
 ## January 13, 2022
 - Today we learned about HTML template, which is exciting because I like being able to play around with different themes. See what each has to offer. After this I could help family and friends set up websites for further practice. 
 - We learned what pair coding is. Then we got our assingment. With a partner, we need to practice some pair coding. I was thinking to think about what to do for it. I thought it could be interesting to have a webpage for our favourite cartoon or something silly. 
