@@ -1,6 +1,9 @@
 # Code Journal
 ## January 19, 2022
+- I do find the visual hierarchy very interesting because with the way you design your website, you can control where people's eyes go. That mixed with the earlier classes in UX, with User Stories and User Flow. I can see how all of these could be very useful tools for a web developer. I also underestimated how much work goes into building a website such as "Apple.ca"
 - I've been trying to think about the final project. There is still plenty to learn but I think that I would like to code a website for a friend of mine. She has a photography business on Instagram but would like something more professional like a website.
+
+TODO: Work on assignments. 
 
 ## January 13, 2022
 - Today we learned about HTML template, which is exciting because I like being able to play around with different themes. See what each has to offer. After this I could help family and friends set up websites for further practice. 
