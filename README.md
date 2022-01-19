@@ -1,4 +1,7 @@
 # Code Journal
+## January 19, 2022
+- I've been trying to think about the final project. There is still plenty to learn but I think that I would like to code a website for a friend of mine. She has a photography business on Instagram but would like something more professional like a website.
+
 ## January 13, 2022
 - Today we learned about HTML template, which is exciting because I like being able to play around with different themes. See what each has to offer. After this I could help family and friends set up websites for further practice. 
 - We learned what pair coding is. Then we got our assingment. With a partner, we need to practice some pair coding. I was thinking to think about what to do for it. I thought it could be interesting to have a webpage for our favourite cartoon or something silly. 
