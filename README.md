@@ -7,10 +7,11 @@ TODO: Work on assignments.
 
 ### DSGN 270 Assignment 1 - Agile UX
   
-  * Looking for mobile website in progress...
-  * Website found! "https://www.aritzia.com/en/home"
+  * *Looking for mobile website in progress...*
+  * *Website found! "https://www.aritzia.com/en/home"*
 
-- **Summary**: Aritzia is a physical & online women's fashion retail store.
+- **Summary**
+  - Aritzia is a physical & online women's fashion retail store.
 
 - **User Stories**
 
