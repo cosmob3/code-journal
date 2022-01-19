@@ -8,12 +8,17 @@ TODO: Work on assignments.
 ### DSGN 270 Assignment 1 - Agile UX
   
   * *Looking for mobile website in progress...*
-  * *Website found! "https://www.aritzia.com/en/home"*
+  * *Website found! "https://www.microsoft.com/en-ca"*
 
 **Summary**
-  - Aritzia is a physical & online women's fashion retail store.
+  - Microsoft is the online hub for all microsoft products such as
 
 **User Stories**
+  i. User Story 1
+  
+  - Who
+    - 
+#### Left off here - Will continue later...
 
 ## January 13, 2022
 - Today we learned about HTML template, which is exciting because I like being able to play around with different themes. See what each has to offer. After this I could help family and friends set up websites for further practice. 
