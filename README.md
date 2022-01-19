@@ -10,10 +10,10 @@ TODO: Work on assignments.
   * *Looking for mobile website in progress...*
   * *Website found! "https://www.aritzia.com/en/home"*
 
-- **Summary**
+**Summary**
   - Aritzia is a physical & online women's fashion retail store.
 
-- **User Stories**
+**User Stories**
 
 ## January 13, 2022
 - Today we learned about HTML template, which is exciting because I like being able to play around with different themes. See what each has to offer. After this I could help family and friends set up websites for further practice. 
