@@ -25,6 +25,14 @@ TODO: Continue and finished **Agile UX** Assignment
   - Why? 
     - so that I can have my own to take to college
  
+ User Story 2
+
+  - As a gamer, I want to sign up for "Games Pass." So that I can have access to the vast library of content Microsoft has available.
+
+ User Story 3
+ 
+  - As a business owner, I want Microsoft 365 for business. So that my team and I can stay connected and on the same page for all the projects we work on. 
+
 ## January 19, 2022
 - I do find the visual hierarchy very interesting because with the way you design your website, you can control where people's eyes go. That mixed with the earlier classes in UX, with User Stories and User Flow. I can see how all of these could be very useful tools for a web developer. I also underestimated how much work goes into building a website such as "Apple.ca"
 - I've been trying to think about the final project. There is still plenty to learn but I think that I would like to code a website for a friend of mine. She has a photography business on Instagram but would like something more professional like a website.
