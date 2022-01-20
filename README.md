@@ -18,7 +18,7 @@ TODO: Continue and finished **Agile UX** Assignment
 
  User Story 1
 
-   - Who?
+  - Who?
     - As a high school graduate
   - What?
     - I want to buy a computer
@@ -30,8 +30,14 @@ TODO: Continue and finished **Agile UX** Assignment
   - As a gamer, I want to sign up for "Games Pass." So that I can have access to the vast library of content Microsoft has available.
 
  User Story 3
- 
-  - As a business owner, I want Microsoft 365 for business. So that my team and I can stay connected and on the same page for all the projects we work on. 
+
+  - As a business owner, I want Microsoft 365 for business. So that my team and I can stay connected and on the same page for all the projects we work on.
+
+  #### Left off here - Will continue later...
+
+  TODO: Finish User Flow & Wireframe
+
+  TODO: **DON'T FORGET TO SUBMIT JOURNAL ENTRIES FOR JAN 19-20TH DUE AT 11:59PM**
 
 ## January 19, 2022
 - I do find the visual hierarchy very interesting because with the way you design your website, you can control where people's eyes go. That mixed with the earlier classes in UX, with User Stories and User Flow. I can see how all of these could be very useful tools for a web developer. I also underestimated how much work goes into building a website such as "Apple.ca"
