@@ -1,4 +1,22 @@
 # Code Journal
+## January 20, 2022
+TODO: Continue and finished **Agile UX** Assignment
+  
+#### Continuing Assignment
+
+### DSGN 270 Assignment 1 - Agile UX
+  
+  * *Looking for mobile website in progress...*
+  * *Website found! "https://www.microsoft.com/en-ca"*
+
+**Summary**
+  - Microsoft is the online hub for all microsoft products such as Surface computers, Xbox gaming console and other accessories for their products. 
+
+**User Stories**
+*As a [type of user], I want [an action] so that [a benefit/a value].*
+
+  **i.** User Story 1
+   - Who
 ## January 19, 2022
 - I do find the visual hierarchy very interesting because with the way you design your website, you can control where people's eyes go. That mixed with the earlier classes in UX, with User Stories and User Flow. I can see how all of these could be very useful tools for a web developer. I also underestimated how much work goes into building a website such as "Apple.ca"
 - I've been trying to think about the final project. There is still plenty to learn but I think that I would like to code a website for a friend of mine. She has a photography business on Instagram but would like something more professional like a website.
@@ -11,13 +29,9 @@ TODO: Work on assignments.
   * *Website found! "https://www.microsoft.com/en-ca"*
 
 **Summary**
-  - Microsoft is the online hub for all microsoft products such as
+  - Microsoft is the online hub for all microsoft products such as Surface computers, Xbox gaming console and other accessories for their products. 
 
-**User Stories**
-  i. User Story 1
-  
-  - Who
-    - 
+ 
 #### Left off here - Will continue later...
 
 ## January 13, 2022
