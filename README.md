@@ -1,4 +1,9 @@
 # Code Journal
+## January 21, 2022
+TODO: Watch yesterday's lesson
+
+- Been working on codepen along side what Ashlyn is doing. Really like that it updates the website in real time. Enjoying it a little more than VS code, can't lie.
+
 ## January 20, 2022
 TODO: Continue and finished **Agile UX** Assignment
   
@@ -37,7 +42,7 @@ TODO: Continue and finished **Agile UX** Assignment
 
 TODO: Finish User Flow & Wireframe
 
-TODO: **DON'T FORGET TO SUBMIT JOURNAL ENTRIES FOR JAN 19-20TH DUE AT 11:59PM**
+cd TODO: **DON'T FORGET TO SUBMIT JOURNAL ENTRIES FOR JAN 19-20TH DUE AT 11:59PM**
 
 ## January 19, 2022
 - I do find the visual hierarchy very interesting because with the way you design your website, you can control where people's eyes go. That mixed with the earlier classes in UX, with User Stories and User Flow. I can see how all of these could be very useful tools for a web developer. I also underestimated how much work goes into building a website such as "Apple.ca"
