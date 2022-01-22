@@ -15,9 +15,17 @@ TODO: Watch yesterday's lesson
   - I've already submitted it but I spent a solid 3 hours or so working on it
   - It's nice to see what you are coding in real time, with codepen. 
   - I was a bit all over the place when it came to my coding, but I more or less tried to follow a list of:
-    - Set-up the skeleton of the website
-    - Then make sure everything goes in the right place. Whatever is a header in the header section and so on with the body and footer. 
-
+    1. Set-up the skeleton of the website
+    2. Then make sure everything goes in the right place. Whatever is a header is in the header section and so on with the body and footer
+    3. After that I decided to play with some CSS to make the website look nice
+    4. Once I got some CSS code in there, I noticed that the website was doing weird things
+    5. Went back to my html and realized it was a MESS
+    6. Tried to tidy it up as best as I knew how and took out things that didn't need to be there. Mostly because it was just extra code that served no purpose
+    7. After that the website was pretty well centered
+    8. Next I played with the background color of the website
+    9. Added some fonts
+    10. Once I was pretty happy with how the website looks, I tried to fix the "Contents" box so that all the numbers would line up nicely for the list. Unfortunatly I was unsuccessful in doing so
+    11. The other issue I was unsuccessful with solving was the footer box. I was unable to get it to stretch from one side of the page to the other. 
 
 ## January 20, 2022
 TODO: Continue and finished **Agile UX** Assignment
