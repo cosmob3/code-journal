@@ -14,7 +14,7 @@ TODO: Watch yesterday's lesson
   - After class today I began my "Wiki Article" activity 
   - I've already submitted it but I spent a solid 3 hours or so working on it
   - It's nice to see what you are coding in real time, with codepen. 
-  - I was a bit all over the place when it came to my coding, but I more or less tried to follow a list of:
+  - I was a bit all over the place when it came to my coding, but I more or less tried to follow these steps:
     1. Set-up the skeleton of the website
     2. Then make sure everything goes in the right place. Whatever is a header is in the header section and so on with the body and footer
     3. After that I decided to play with some CSS to make the website look nice
