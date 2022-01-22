@@ -29,6 +29,27 @@ TODO: Watch yesterday's lesson
 
  - I think I will continue to work on code in the future, but there is other assignments due for today! 
 
+ #### Continuing Assignment
+
+ ### DSGN 270 Assignment 1 - Agile UX
+
+**User Flow**
+User Story: As a gamer, I want to sign up for the "Xbox Game Pass." So that I can have access to the vast library of content Microsoft has available.
+
+*THESE STEPS ARE ASSUMING THAT USER HAS AN ACCOUNT AND IS SIGNED IN*
+
+  1. Using the browser, the User navigates to the Microsoft website
+  2. Once at the home page, the User clicks on the hamburger menu and selects "Xbox"
+  3. User clicks on "Game Pass" button
+  4. User clicks on "Join Now" button
+  5. User clicks on "Join for $1" button
+  6. User clicks on "Join" button
+  7. User clicks on "NEXT"
+  8. User picks payment option
+  9. User fills out credit card and address informantion and hits "Save"
+  10. User clicks "Subscribe"
+  11. User is re-directed to home page with a success message
+
 ## January 20, 2022
 TODO: Continue and finished **Agile UX** Assignment
   
