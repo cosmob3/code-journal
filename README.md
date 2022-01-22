@@ -4,6 +4,21 @@ TODO: Watch yesterday's lesson
 
 - Been working on codepen along side what Ashlyn is doing. Really like that it updates the website in real time. Enjoying it a little more than VS code, can't lie.
 
+**After Class**
+
+- Today I worked on a lot of html and css using codepen.
+- Completely forgot that we needed a journal entry so I'll document the things that gave me the most issues.
+- It was really exciting finally having that light bulb moment today as it actually made sense how html and css work together.
+
+### Wiki Article
+  - After class today I began my "Wiki Article" activity 
+  - I've already submitted it but I spent a solid 3 hours or so working on it
+  - It's nice to see what you are coding in real time, with codepen. 
+  - I was a bit all over the place when it came to my coding, but I more or less tried to follow a list of:
+    - Set-up the skeleton of the website
+    - Then make sure everything goes in the right place. Whatever is a header in the header section and so on with the body and footer. 
+
+
 ## January 20, 2022
 TODO: Continue and finished **Agile UX** Assignment
   
