@@ -26,6 +26,9 @@ TODO: Watch yesterday's lesson
     9. Added some fonts
     10. Once I was pretty happy with how the website looks, I tried to fix the "Contents" box so that all the numbers would line up nicely for the list. Unfortunatly I was unsuccessful in doing so
     11. The other issue I was unsuccessful with solving was the footer box. I was unable to get it to stretch from one side of the page to the other. 
+  
+  ***Attributions***
+    - Image of Bowser Jr. (https://upload.wikimedia.org/wikipedia/en/d/d2/Bowser_Jr.png) sourced from Super Mario Wiki (https://www.mariowiki.com/File:Bowserjr_NSMBU.png) 
 
  - I think I will continue to work on code in the future, but there is other assignments due for today! 
 
