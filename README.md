@@ -27,6 +27,8 @@ TODO: Watch yesterday's lesson
     10. Once I was pretty happy with how the website looks, I tried to fix the "Contents" box so that all the numbers would line up nicely for the list. Unfortunatly I was unsuccessful in doing so
     11. The other issue I was unsuccessful with solving was the footer box. I was unable to get it to stretch from one side of the page to the other. 
 
+ - I think I will continue to work on code in the future, but there is other assignments due for today! 
+
 ## January 20, 2022
 TODO: Continue and finished **Agile UX** Assignment
   
