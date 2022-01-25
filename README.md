@@ -1,4 +1,11 @@
 # Code Journal
+## January 25, 2022
+TODO: **Continue working on Navigation bar**
+- Make it so "Rob's Burger Shack" and rest of Navigation bar are on the same line.
+- Add a background
+- Add logo
+- Add buttons 
+
 ## January 24, 2022
 TODO: Work on Navigation bar
 
