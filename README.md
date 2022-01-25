@@ -1,4 +1,10 @@
 # Code Journal
+## January 24, 2022
+TODO: Work on Navigation bar
+
+- For some reason I am having a hard with all the code that goes into a navigation bar. Trying to add an icon or image to navigaton bar. 
+ 
+
 ## January 21, 2022
 TODO: Watch yesterday's lesson
 
