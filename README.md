@@ -3,7 +3,8 @@
 TODO: Work on Navigation bar
 
 - For some reason I am having a hard with all the code that goes into a navigation bar. Trying to add an icon or image to navigaton bar. 
- 
+
+- Finished some very easy HTML so I can start playing around with some CSS 
 
 ## January 21, 2022
 TODO: Watch yesterday's lesson
