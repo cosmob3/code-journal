@@ -6,7 +6,7 @@ TODO: Work on Navigation bar
 
 - Finished some very easy HTML so I can start playing around with some CSS
 
-- Was able to use flexbox to display my navigation bar links in a row. It took a while becaue I was typing `class=app'to the different <div> and it wasn't doing much. But I got it eventually!
+- Was able to use flexbox to display my navigation bar links in a row. It took a while becaue I was typing `class=app'to the different < div > and it wasn't doing much. But I got it eventually!
 
 - Using the CSS-tricks website lots to help figure out what I am supposed to do. [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
 
