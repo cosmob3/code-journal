@@ -4,7 +4,9 @@ TODO: Work on Navigation bar
 
 - For some reason I am having a hard with all the code that goes into a navigation bar. Trying to add an icon or image to navigaton bar. 
 
-- Finished some very easy HTML so I can start playing around with some CSS 
+- Finished some very easy HTML so I can start playing around with some CSS
+
+- Was able to use flexbox to display my navigation bar links in a row. It took a while becaue I was typing `class=app'to the different <div> and it wasn't doing much. But I got it eventually!
 
 ## January 21, 2022
 TODO: Watch yesterday's lesson
