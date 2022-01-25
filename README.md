@@ -10,6 +10,12 @@ TODO: Work on Navigation bar
 
 - Using the CSS-tricks website lots to help figure out what I am supposed to do. [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
 
+TODO: 
+- Make it so "Rob's Burger Shack" and rest of Navigation bar are on the same line.
+- Add a background
+- Add logo
+- Add buttons 
+
 ## January 21, 2022
 TODO: Watch yesterday's lesson
 
