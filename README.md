@@ -8,6 +8,8 @@ TODO: Work on Navigation bar
 
 - Was able to use flexbox to display my navigation bar links in a row. It took a while becaue I was typing `class=app'to the different <div> and it wasn't doing much. But I got it eventually!
 
+![Screenshot 2022-01-24 222240](https://user-images.githubusercontent.com/97326786/150917825-601785b8-d380-4596-9442-e50060a62917.png)
+
 - Using the CSS-tricks website lots to help figure out what I am supposed to do. [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
 
 TODO: 
