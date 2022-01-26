@@ -1,10 +1,17 @@
 # Code Journal
+## January 26, 2022
+TODO: **Work on Cards Activity**
+- Figuring out what to write in the boxes that also makes sense for the website.
+- Adding text
+- Find logo or image to add to cards
+- add button
+
 ## January 25, 2022
 TODO: **Continue working on Navigation bar**
   - X Make it so "Rob's Burger Shack" and rest of Navigation bar are on the same line.
   - X Add a background
   - X Add logo
-  - Add buttons 
+  - X Add buttons 
 
 - So far so good, managed to get all of the text onto one line and add a background. Now I'm just having trouble separating my list items. Trying to use `justify-content: space-evenly or space-around` but it't not doing much. 
 
