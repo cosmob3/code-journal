@@ -13,10 +13,14 @@ TODO: **Continue working on Navigation bar**
 - Finally spaced out the content that was in the middle with a "nav-wrapper." I sucks that you could spend so long trying to figure out something simple :'(. But that's the learning process.
 
 - Okay so haven't worked on the button previously mentioned but navigation bar is looking really good. It's taken a bit but we are getting there!
-- I'm finding that going along with the recording of Ashlyn coding the navigation bar is really helpful. ***Repetition***
+- I'm finding that going along with the recording of Ashlyn coding the navigation bar is really helpful. 
+
+***Repetition***
 
 ![Screenshot 2022-01-25 201207](https://user-images.githubusercontent.com/97326786/151098573-8b5ec7fd-c60b-4f86-9d0e-321c41112749.png)
 
+- I think the CSS is starting to make a lot more sense. Some of the things I'm still confused as to how they work but I'll figure it out.
+- Finally made the button for a sing-up area but I had a bit of an issue that I think looks pretty cool so I think I'll keep it? 
 
 ## January 24, 2022
 TODO: Work on Navigation bar
