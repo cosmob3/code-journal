@@ -3,12 +3,14 @@
 TODO: **Continue working on Navigation bar**
   - X Make it so "Rob's Burger Shack" and rest of Navigation bar are on the same line.
   - X Add a background
-  - Add logo
+  - X Add logo
   - Add buttons 
 
 - So far so good, managed to get all of the text onto one line and add a background. Now I'm just having trouble separating my list items. Trying to use `justify-content: space-evenly or space-around` but it't not doing much. 
 
 - Was successful in adding a little burger icon!
+
+- Finally spaced out the content that was in the middle with a "nav-wrapper." I sucks that you could spend so long trying to figure out something simple :'(. But that's the learning process. 
 
 ## January 24, 2022
 TODO: Work on Navigation bar
