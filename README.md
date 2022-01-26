@@ -10,7 +10,9 @@ TODO: **Continue working on Navigation bar**
 
 - Was successful in adding a little burger icon!
 
-- Finally spaced out the content that was in the middle with a "nav-wrapper." I sucks that you could spend so long trying to figure out something simple :'(. But that's the learning process. 
+- Finally spaced out the content that was in the middle with a "nav-wrapper." I sucks that you could spend so long trying to figure out something simple :'(. But that's the learning process.
+
+- Okay so haven't worked on the button previously mentioned but navigation bar is looking really good. It's taken a bit but we are getting there!
 
 ## January 24, 2022
 TODO: Work on Navigation bar
