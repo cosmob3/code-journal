@@ -8,6 +8,8 @@ TODO: **Continue working on Navigation bar**
 
 - So far so good, managed to get all of the text onto one line and add a background. Now I'm just having trouble separating my list items. Trying to use `justify-content: space-evenly or space-around` but it't not doing much. 
 
+- Was successful in adding a little burger icon!
+
 ## January 24, 2022
 TODO: Work on Navigation bar
 
