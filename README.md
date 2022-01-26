@@ -14,6 +14,9 @@ TODO: **Continue working on Navigation bar**
 
 - Okay so haven't worked on the button previously mentioned but navigation bar is looking really good. It's taken a bit but we are getting there!
 
+![Screenshot 2022-01-25 201207](https://user-images.githubusercontent.com/97326786/151098573-8b5ec7fd-c60b-4f86-9d0e-321c41112749.png)
+
+
 ## January 24, 2022
 TODO: Work on Navigation bar
 
