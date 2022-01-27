@@ -4,9 +4,9 @@ TODO: **Work on Cards Activity**
 - Figuring out what to write in the boxes that also makes sense for the website.
 - X Adding text
 - X Find logo or image to add to cards
-- add button
+- X Xadd button
 
-- Finished adding the text and finding an image for the card.
+Finished adding the text and finding an image for the card.
 
 TODO: 
 - X add boarders
@@ -14,9 +14,9 @@ TODO:
 - X add button
 - X Does it work on mobile?
 
-- Have done most the items on the list. Now I have to make sure that it is usable on a mobile device. 
+Have done most the items on the list. Now I have to make sure that it is usable on a mobile device. 
 
-- The website is functional and resposnsive. Navigation bar could use more work when it is in mobile mode but no sideways scroll!
+The website is functional and resposnsive. Navigation bar could use more work when it is in mobile mode but no sideways scroll!
 
 
 ## January 25, 2022
