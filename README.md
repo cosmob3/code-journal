@@ -12,9 +12,11 @@ TODO:
 - X add boarders
 - X play around with some colors [Used to find a nice color mix for design](https://www.designwizard.com/blog/design-trends/colour-combination)
 - X add button
-- Does it work on mobile?
+- X Does it work on mobile?
 
-- Have done most the items on the list. Now I have to make sure that it is usable on a mobile device.  
+- Have done most the items on the list. Now I have to make sure that it is usable on a mobile device. 
+
+- The website is functional and resposnsive. Navigation bar could use more work when it is in mobile mode but no sideways scroll!
 
 
 ## January 25, 2022
