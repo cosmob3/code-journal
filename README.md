@@ -2,9 +2,19 @@
 ## January 26, 2022
 TODO: **Work on Cards Activity**
 - Figuring out what to write in the boxes that also makes sense for the website.
-- Adding text
-- Find logo or image to add to cards
+- X Adding text
+- X Find logo or image to add to cards
 - add button
+
+- Finished adding the text and finding an image for the card.
+
+TODO: 
+- add boarders
+- play around with some colors
+- add button
+- Does it work on mobile?
+
+
 
 ## January 25, 2022
 TODO: **Continue working on Navigation bar**
