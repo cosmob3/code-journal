@@ -2,12 +2,18 @@
 ## January 28, 2022
 
 TODO: **Work on 404 Page Activity**
-- Find image for 404 page
-- Add 404 error text to page
+- X Find image for 404 page
+- X Add 404 error text to page
 - make background image take up the full screen with `height:100vh`
 - How is it on mobile
 
-Got 
+Got most of the html typed out. Looking for funky image to add.  
+
+Found an image and added text to my page. Now to find out how to put the image in the background. 
+
+Having a really hard time getting the image to display!!
+
+I don't know how to add this background image. I've been working on it for a while now :'(
 
 ## January 26, 2022
 
