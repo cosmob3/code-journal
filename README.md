@@ -1,5 +1,16 @@
 # Code Journal
+## January 28, 2022
+
+TODO: **Work on 404 Page Activity**
+- Find image for 404 page
+- Add 404 error text to page
+- make background image take up the full screen with `height:100vh`
+- How is it on mobile
+
+Got 
+
 ## January 26, 2022
+
 TODO: **Work on Cards Activity**
 - Figuring out what to write in the boxes that also makes sense for the website.
 - X Adding text
@@ -20,6 +31,7 @@ The website is functional and resposnsive. Navigation bar could use more work wh
 
 
 ## January 25, 2022
+
 TODO: **Continue working on Navigation bar**
   - X Make it so "Rob's Burger Shack" and rest of Navigation bar are on the same line.
   - X Add a background
@@ -42,7 +54,9 @@ TODO: **Continue working on Navigation bar**
 - I think the CSS is starting to make a lot more sense. Some of the things I'm still confused as to how they work but I'll figure it out.
 - Finally made the button for a sing-up area but I had a bit of an issue that I think looks pretty cool so I think I'll keep it? 
 
+
 ## January 24, 2022
+
 TODO: Work on Navigation bar
 
 - For some reason I am having a hard with all the code that goes into a navigation bar. Trying to add an icon or image to navigaton bar. 
