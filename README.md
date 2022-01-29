@@ -4,8 +4,8 @@
 TODO: **Work on 404 Page Activity**
 - X Find image for 404 page
 - X Add 404 error text to page
-- make background image take up the full screen with `height:100vh`
-- How is it on mobile
+- X make background image take up the full screen with `height:100vh`
+- X How is it on mobile
 
 Got most of the html typed out. Looking for funky image to add.  
 
@@ -15,13 +15,19 @@ Having a really hard time getting the image to display!!
 
 I don't know how to add this background image. I've been working on it for a while now :'(
 
+Finally got an image in the background in there! YYAAY!!!
+
+Fit for mobile! 
+
+***Submit***
+
 ## January 26, 2022
 
 TODO: **Work on Cards Activity**
 - Figuring out what to write in the boxes that also makes sense for the website.
 - X Adding text
 - X Find logo or image to add to cards
-- X Xadd button
+- X add button
 
 Finished adding the text and finding an image for the card.
 
