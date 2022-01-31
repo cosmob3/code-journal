@@ -1,4 +1,21 @@
 # Code Journal
+## January 30, 2022
+
+TODO: **Work on Prodoct/Services Page**
+- Figure out website UI 
+- Set up basic skeleton on HTML
+  - Navigation Bar
+  - Multiple sections
+  - 3 card layout
+  - an unordered list 
+- Add content 
+- Make sure it all looks good
+- Make sure it's funtional 
+- Attributions!!!
+
+Wish me luck
+  -good luck!
+
 ## January 28, 2022
 
 TODO: **Work on 404 Page Activity**
