@@ -3,6 +3,16 @@
 
 Have been working on this assignment for hours. But most of the item on my checklist have been done! Still trying to make everything wrap properly.
 
+Found out what my spacing issue was... I didn't close off one of my links and it was missing everything up...
+- Would not have known what was wrong if it wasn't for Ashlyn pushing me to use the dev tools in Firefox. 
+  
+- Ended up changing card layout to a `grid` layout instead of a `flex` layout. Easier for wrapping. 
+
+Finished at last :D Nothing fancy but it works, It looks nice. Best of all, its responsive. 
+
+- Finished CPNT-260-a2!!
+
+
 ## January 30, 2022
 
 TODO: **Work on Prodoct/Services Page**
