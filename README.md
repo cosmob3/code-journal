@@ -2,19 +2,24 @@
 ## January 30, 2022
 
 TODO: **Work on Prodoct/Services Page**
-- Figure out website UI 
+-  X Figure out website UI 
 - Set up basic skeleton on HTML
-  - Navigation Bar
-  - Multiple sections
+  - X Navigation Bar
+  - X Multiple sections
   - 3 card layout
   - an unordered list 
 - Add content 
 - Make sure it all looks good
 - Make sure it's funtional 
 - Attributions!!!
+  - https://www.pexels.com/photo/animal-dog-pet-cute-2007/  [dog-img-rudy]
 
 Wish me luck
   -good luck!
+
+Made a rough sketch of what I want my website to look like. Really helps to better visualize what needs to be in its own `<div>` or `<section>`
+
+Have started setting up basic skeleton on website. So far so good. Have a nav. bar, multiple sections, 1 card so far!
 
 ## January 28, 2022
 
