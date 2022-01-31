@@ -6,7 +6,7 @@ TODO: **Work on Prodoct/Services Page**
 - Set up basic skeleton on HTML
   - X Navigation Bar
   - X Multiple sections
-  - 3 card layout
+  - X 3 card layout
   - an unordered list 
 - Add content 
 - Make sure it all looks good
@@ -14,12 +14,14 @@ TODO: **Work on Prodoct/Services Page**
 - Attributions!!!
   - https://www.pexels.com/photo/animal-dog-pet-cute-2007/  [dog-img-rudy]
 
-Wish me luck
-  -good luck!
+Wish me luck!
+  - good luck!
 
 Made a rough sketch of what I want my website to look like. Really helps to better visualize what needs to be in its own `<div>` or `<section>`
 
 Have started setting up basic skeleton on website. So far so good. Have a nav. bar, multiple sections, 1 card so far!
+
+Okay, I have everything but an unordered list. Will add that later. Going to add content and then move onto CSS
 
 ## January 28, 2022
 
