@@ -45,8 +45,6 @@ TODO: **Make sure it all looks good**
 
 ***LATE***
 
-Have been working on this assignment for hours. But most of the item on my checklist have been done! Still trying to make everything wrap properly.
-
 ## January 28, 2022
 
 TODO: **Work on 404 Page Activity**
