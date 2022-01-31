@@ -1,4 +1,8 @@
 # Code Journal
+## January 31, 2022
+
+Have been working on this assignment for hours. But most of the item on my checklist have been done! Still trying to make everything wrap properly.
+
 ## January 30, 2022
 
 TODO: **Work on Prodoct/Services Page**
@@ -9,8 +13,8 @@ TODO: **Work on Prodoct/Services Page**
   - X 3 card layout
   - X an unordered list 
 - X Add content 
-- Footer
-- Make sure it all looks good
+- X Footer
+- **Make sure it all looks good**
 - Make sure it's funtional 
 - Attributions!!!
   - https://www.pexels.com/photo/animal-dog-pet-cute-2007/  [dog-img-rudy]
@@ -27,20 +31,21 @@ Okay, I have everything but an unordered list. Will add that later. Going to add
 Page content finished! Now to add the CSS!
 
 TODO: **Make sure it all looks good**
-- Make sure everything lines up as my sketch. 
-- Center H2
-- Place dog image side by side with dog fact
-- Adjust image and text size
-- Cards
-  - Adjust all fonts
-  - Max text width of 20ch
-  - Make cards be side by side
-  - Fix hover over button
-- paragraph text line lenght is 75ch
+- X Make sure everything lines up as my sketch. 
+- X Center H2
+- X Place dog image side by side with dog fact
+- X Adjust image and text size
+- X Cards
+  - X Adjust all fonts
+  - X Max text width of 20ch
+  - X Make cards be side by side
+- X paragraph text line lenght is 75ch
 - no horizontal scroll 
 - change colour scheme and fonts 
 
+***LATE***
 
+Have been working on this assignment for hours. But most of the item on my checklist have been done! Still trying to make everything wrap properly.
 
 ## January 28, 2022
 
