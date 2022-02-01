@@ -2,9 +2,13 @@
 
 ## February 1, 2022
 
+TODO: **Work on User Input**
+
 Worked on User Input and I didn't document...
 
-- For this session I wanted to focus on understanding the pieces and components of for a user input form. 
+### Summary:
+
+- For this session I wanted to focus on understanding the pieces and components of a user input form. 
 
 - Overall a relatively simple idea but with a lot of text! 
 
@@ -15,6 +19,15 @@ Worked on User Input and I didn't document...
 Will me uploading more images using iPad as I am finding it really useful 
 
 - All required content is on User Input. Will work on CSS tomorrow. Or I guess later today!
+
+TODO: **Work on User Input**
+- X Make sure it all sits in the middle
+- X Add 2 separate sections for information
+- Get "Special Ability" dropdown menu to sit on top of backstory text box
+- Add Header and Footer
+- Center Button
+
+Finding it tricky to stack some content on top of other content. Trying to use flexbox and grid
 
 ## January 31, 2022
 
