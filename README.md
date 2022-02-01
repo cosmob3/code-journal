@@ -1,4 +1,19 @@
 # Code Journal
+
+## February 1, 2022
+
+Worked on User Input and I didn't document...
+
+- For this session I wanted to focus on understanding the pieces and components of for a user input form. 
+
+- Overall a relatively simple idea but with a lot of text! 
+
+- Wrote out what the `<tags>` and code are suppose to look at on my iPad and it may be hard to understand but it makes sense to me and really helped. 
+
+Will me uploading more images using iPad as I am finding it really useful 
+
+- All required content is on User Input. Will work on CSS tomorrow. Or I guess later today!
+
 ## January 31, 2022
 
 Have been working on this assignment for hours. But most of the item on my checklist have been done! Still trying to make everything wrap properly.
@@ -11,6 +26,12 @@ Found out what my spacing issue was... I didn't close off one of my links and it
 Finished at last :D Nothing fancy but it works, It looks nice. Best of all, its responsive. 
 
 - Finished CPNT-260-a2!!
+
+***Later in the day***
+
+Self brag: Got to repo file on my computer today with one command! 
+
+TODO: **Work on User Input**
 
 
 ## January 30, 2022
