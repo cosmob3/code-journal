@@ -10,6 +10,8 @@ Worked on User Input and I didn't document...
 
 - Wrote out what the `<tags>` and code are suppose to look at on my iPad and it may be hard to understand but it makes sense to me and really helped. 
 
+![272790614_465265658432183_6537680924280793133_n](https://user-images.githubusercontent.com/97326786/151929497-680fbfd7-b014-495c-b42b-dc20663eacfc.jpg)
+
 Will me uploading more images using iPad as I am finding it really useful 
 
 - All required content is on User Input. Will work on CSS tomorrow. Or I guess later today!
