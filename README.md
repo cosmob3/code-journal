@@ -23,11 +23,15 @@ Will me uploading more images using iPad as I am finding it really useful
 TODO: **Work on User Input**
 - X Make sure it all sits in the middle
 - X Add 2 separate sections for information
-- Get "Special Ability" dropdown menu to sit on top of backstory text box
-- Add Header and Footer
-- Center Button
+- X Get "Special Ability" dropdown menu to sit on top of backstory text box
+- X Add Header and Footer
+- X Center Button
 
-Finding it tricky to stack some content on top of other content. Trying to use flexbox and grid
+Finding it tricky to stack some content on top of other content. Trying to use flexbox and grid.
+
+... Realizing the reason why things weren't stacking properly is just because they were in a `<div>`. No CSS needed. Just the backspace key
+
+Input is finished!
 
 ## January 31, 2022
 
