@@ -1,5 +1,35 @@
 # Code Journal
 
+## February 3, 2022
+
+TODO: **Working on Gallery**
+- X Add Nav. bar and Footer
+- X Nav. must be responsive
+- X Single column on mobile, 3+ columns on desktop
+- X Semantic images using figure and figcaption
+  - X figcaption should include title or image description and photo credit
+  - X fig-caption should have a min-width to preserve line length
+- X Images should use img tag and have proper alt text
+  - X note, if you use any functional images (such as links), then the alt text should describe the function and not the picture
+- X Preserve image aspect ratio
+
+Worked on my Gallery Page last night and got all of my images ready to start moving them around
+
+Have completely change my images. I've been trying to make everything fit nicely but I'm having a really hard time getting it to do so
+
+Got things lined up a bit. Used the Inspector tool and it really helped to figure out what was doing what. 
+
+*Need to get better at using it*
+
+The Inspector tool helped to see what was doing what and I realized part of my CSS was messing with the layout I was trying to do. Deleted `align-item: center;`
+and it helped with the smaller images to make them a bit bigger.
+
+Went for a different approach on the gallery. It looks more like steps going up and down and I really liked the way it looked
+
+Almost forgot `Figcaptions`
+
+FINSISHED TIME TO SUBMIT
+
 ## February 1, 2022
 
 TODO: **Work on User Input**
