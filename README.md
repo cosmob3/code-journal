@@ -8,8 +8,8 @@ TODO: **Work on Home Page Assignment**
 - X a heading using h1 tag
 - X a tagline using p tag
 - X a call to action
-- add form page and link to it
-- add 3rd party api
+- X add form page and link to it
+- X add 3rd party api
 - Add Fonts Sheet
 
 **Attributions**
@@ -22,6 +22,12 @@ Was having a really hard time adding a background image that is locally hosted. 
 Until... I realized I had forgotten to link my CSS sheet.
 
 Okay, got some content on there. Gotta work on the button now. After that I'll link it to my form page and like that to the 3rd party api. 
+
+Got the form up and running. 
+
+Okay, linked the homepage with the form page. It's all working well. 
+
+Next, I want to add some font to make it look more attractive. 
 
 
 ## February 3, 2022
