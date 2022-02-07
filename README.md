@@ -16,6 +16,10 @@ TODO: **Work on Home Page Assignment**
 Photo of Medic Dogs by [Sam Lion](https://www.pexels.com/photo/cute-healthy-yorkshire-terrier-with-nurse-cap-and-stethoscope-5731866/) from Pexels
 
 
+Was having a really hard time adding a background image that is locally hosted. I lookede around and couldn't figure it out. 
+
+Until... I realized I had forgotten to link my CSS sheet.
+
 
 
 ## February 3, 2022
