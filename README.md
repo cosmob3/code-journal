@@ -1,5 +1,23 @@
 # Code Journal
 
+## February 7, 2022
+
+TODO: **Work on Home Page Assignment**
+- Look for hero section image
+- One locally hosted image using HTML or CSS
+- a heading using h1 tag
+- a tagline using p tag
+- a call to action
+- add form page and link to it
+- add 3rd party api
+
+**Attributions**
+
+Photo of Medic Dogs by [Sam Lion](https://www.pexels.com/photo/cute-healthy-yorkshire-terrier-with-nurse-cap-and-stethoscope-5731866/) from Pexels
+
+
+
+
 ## February 3, 2022
 
 TODO: **Working on Gallery**
