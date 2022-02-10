@@ -11,7 +11,15 @@ Was looking around for different libraries and I came across `three.js` and I lo
 
 Going to see if I'm successful in installing it!
 
+Used Github to clone it down to my PC and I didn't realized it would take a bit to download.
 
+So I don't really understand what is going on... maybe for a later time when I understand this better. 
+
+Going to try `lodash`.
+
+I tried it. Saw this video on youtube that helped to understand some of the functions of lodash but I'm not sure how to demo it. Like I can see it in the `console` but I'm not sure what to add to the HTML to actually make the javascript useful.
+
+I think I'll do the `reveal.js` for now and ask more about it tomorrow. I thought I was understanding this better but I'm still pretty lost...
 
 
 ## February 7, 2022
