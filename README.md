@@ -1,5 +1,19 @@
 # Code Journal
 
+## February 9, 2022
+TODO: **Work on Plugin' Away - Achievement 1**
+- Install a 3rd-party JS library
+- Demo the library with a simple demo
+- Distinguish between the various methods JS can be loaded into an HTML file
+- Document this activity 
+
+Was looking around for different libraries and I came across `three.js` and I love how it looks and what you can do with it.
+
+Going to see if I'm successful in installing it!
+
+
+
+
 ## February 7, 2022
 
 TODO: **Work on Home Page Assignment**
