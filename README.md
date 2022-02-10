@@ -17,9 +17,22 @@ So I don't really understand what is going on... maybe for a later time when I u
 
 Going to try `lodash`.
 
-I tried it. Saw this video on youtube that helped to understand some of the functions of lodash but I'm not sure how to demo it. Like I can see it in the `console` but I'm not sure what to add to the HTML to actually make the javascript useful.
+I tried it. Saw this video on youtube [What is Lodash and How it Works (for beginners)](https://www.youtube.com/watch?v=YyxliogSwrM&t=310s) By iEatWebsites that helped to understand some of the functions of lodash but I'm not sure how to demo it. Like I can see it in the `console` but I'm not sure what to add to the HTML to actually make the javascript useful.
 
 I think I'll do the `reveal.js` for now and ask more about it tomorrow. I thought I was understanding this better but I'm still pretty lost...
+
+Looks like we are making a slide show tonight!!!! 
+
+**Attribution** 
+
+
+Photo of Pizza by [Krisp Cut](https://www.pexels.com/photo/close-up-photo-of-person-holding-pizza-1653877/) from Pexels
+
+
+Photo of Pepperoni by [Polina Tankilevitch](https://www.pexels.com/photo/close-up-shot-of-pepperoni-pizza-4109073/) from Pexels
+
+
+Made a random slide show but I'm pretty proud of it. I feel a little bit better about using `reaveal.js` in the future but would still like to learn how to do that with other libraries. 
 
 
 ## February 7, 2022
