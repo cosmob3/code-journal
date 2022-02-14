@@ -1,5 +1,9 @@
 # Code Journal
 
+## February 14, 2022
+
+We are looking at Arrays today
+
 ## February 13, 2022
 
 TODO: **Work on Press of a Button Achievement**
